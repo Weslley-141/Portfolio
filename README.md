@@ -1,10 +1,12 @@
 # 🌴 Portfólio Vaporwave
 
-Portfólio pessoal de **Weslley Eugênio**, desenvolvedor de sistemas com foco em front-end, construído com **Next.js, TypeScript e Tailwind CSS** em uma estética inspirada no Vaporwave.
+Portfólio pessoal de **Weslley Eugênio**, desenvolvedor de sistemas com foco em front-end, construído com **Next.js, TypeScript e Tailwind CSS**, inspirado na estética Vaporwave.
 
-A página inteira funciona como uma esteira lateral: o scroll vertical é convertido em movimento horizontal, conduzindo a navegação pelas seções **Hero, Projetos e Contato**.
+A página funciona como uma esteira lateral: o scroll vertical é convertido em movimento horizontal, conduzindo a navegação pelas seções **Hero, Projetos e Contato**.
 
-> **Contexto do repositório:** esta é a nova versão do meu portfólio, redesenhada do zero com uma identidade vaporwave, substituindo a versão anterior de estética terminal/cyber.
+> **Contexto do repositório:** esta é a nova versão do meu portfólio, redesenhada do zero com uma identidade Vaporwave, substituindo a versão anterior de estética terminal/cyber.
+
+🌴 **[Acessar o portfólio](https://weslley-portfolio.vercel.app/)**
 
 ---
 
@@ -86,7 +88,7 @@ A página inteira funciona como uma esteira lateral: o scroll vertical é conver
 │
 ├── data/
 │   ├── projects.ts     # Projetos e grupos
-│   └── contact.ts      # Links de contato
+│   └── contact.ts      # Links e informações de contato
 │
 └── public/
     ├── images/         # Estátua do Hero
@@ -167,17 +169,23 @@ Um canal deixado vazio aparece como **"em breve"**, sem gerar links quebrados.
 
 O projeto está pronto para deploy na **Vercel**, sem necessidade de variáveis de ambiente.
 
+### Produção
+
+**[weslley-portfolio.vercel.app](https://weslley-portfolio.vercel.app/)**
+
+O projeto está conectado ao GitHub e novos pushes na branch principal podem gerar novos deployments automaticamente pela Vercel.
+
 ---
 
 ## 👨‍💻 Autor
 
 **Weslley Eugênio**
 
-- GitHub: [Weslley-141](https://github.com/Weslley-141)
-- Portfólio: weslley-portfolio.vercel.app
+- GitHub: **[Weslley-141](https://github.com/Weslley-141)**
+- Portfólio: **[weslley-portfolio.vercel.app](https://weslley-portfolio.vercel.app/)**
 
 ---
 
 ## 📄 Licença
 
-Este projeto é um portfólio pessoal e foi desenvolvido para apresentação profissional e demonstração de projetos.
+Este projeto é um portfólio pessoal desenvolvido para apresentação profissional e demonstração de projetos.
