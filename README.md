@@ -174,7 +174,7 @@ O projeto está pronto para deploy na **Vercel**, sem necessidade de variáveis 
 **Weslley Eugênio**
 
 - GitHub: [Weslley-141](https://github.com/Weslley-141)
-- Portfólio: **[seu link aqui]**
+- Portfólio: **[weslley-portfolio.vercel.app]**
 
 ---
 
